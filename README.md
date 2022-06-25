@@ -1,8 +1,11 @@
 <h1 align="center">Bingo Alcaldia Risaralda</h1>
 
 - Generación de tableros de bingo apartir de números aleatorios para impresión de 2.000 tableros en Risaralda/Colombia - Evento Alcaldia.
-
 <hr>
+
+<h2 align="center">Resultado Entregado a la Alcaldia - SYC</h2>
+
+![Resultado](https://github.com/ApidriuC/Bingo_Alcaldia_Risaralda/blob/main/BingoResultado.PNG)
 
 <h5 align="justify">Se requiere realizar un algoritmo que genere 2.000 tableros de Bingo para un eveneto en la Alcaldia de Risaralda. Este, debe generar en cada una de las columnas diferentes rangos de números como veremos a continuación: </h5>
 
