@@ -1,9 +1,9 @@
-<h1 align="center">Bingo Alcaldia Risaralda</h1>
+<h1 align="center">Bingo</h1>
 
 - Generación de tableros de bingo apartir de números aleatorios para impresión de 2.000 tableros en Risaralda/Colombia - Evento Alcaldia.
 <hr>
 
-<h2 align="center">Resultado Entregado a la Alcaldia - SYC</h2>
+<h2 align="center">Resultado Entregado a la Alcaldia Risaralda - SYC</h2>
 
 <h2 align="center">
 
